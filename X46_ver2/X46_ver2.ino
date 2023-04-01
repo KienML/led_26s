@@ -42,7 +42,7 @@ const byte d24_Pin = 44;
 const byte d25_Pin = 45;
 const byte d26_Pin = 46;
 const byte d27_Pin = 47;
-
+// ADD comments
 const byte SIM_MODE_PIN = 50;
 
 //Method of switching RADAs on/off
